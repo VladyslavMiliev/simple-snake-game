@@ -29,7 +29,7 @@ To get started with the game, follow these steps:
 ## Screenshots
 
 ![(1)](https://github.com/user-attachments/assets/eab69eb2-7dc9-4299-96fd-8d14e35601d0)
-*The interface of the game*
+*The interface of the game.*
 
 ![(2)](https://github.com/user-attachments/assets/406309cd-9bb3-4548-864c-03ea354895f8)
 *The interface of the game.*
